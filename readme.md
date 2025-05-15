@@ -6,10 +6,9 @@ This project uses a **real QAOA quantum circuit** to solve a **pathfinding probl
 - Quantum QAOA circuit (parameterized gates)
 - QUBO conversion via Docplex
 - Histogram of measured bitstrings
-- Extendable graph (4+ nodes)
+- Extendable graph (5 nodes)
 - Option to run on IBM Quantum hardware
 
 ## Structure
-- Jupyter notebook to run everything
 - `src/`: Python files for QUBO modeling and circuit execution
 - Graph JSON for traffic simulation
