@@ -1,0 +1,9 @@
+{
+  "edges": [
+    {"from": "A", "to": "B", "weight": 1},
+    {"from": "B", "to": "C", "weight": 3},
+    {"from": "C", "to": "D", "weight": 2},
+    {"from": "A", "to": "D", "weight": 6},
+    {"from": "B", "to": "D", "weight": 4}
+  ]
+}
